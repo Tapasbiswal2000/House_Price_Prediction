@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Generated files
+*.log
+
+# Large/generated data
+data/processed/
+
+# Model artifacts
+models/*.pkl
